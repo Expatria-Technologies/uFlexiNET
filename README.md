@@ -7,7 +7,7 @@ Adds Ethernet and SD card storage to a FlexiHAL CNC Controller
 
 Currently available in our online store:
 
-https://expatria.myshopify.com/products/flexi-hal
+[https://expatria.myshopify.com/products/uflexinet](https://expatria.myshopify.com/products/uflexinet-ethernet-and-sd-card-module-for-flexihal)
 
 Please consider buying a board to support our open-source designs. 
 
@@ -21,7 +21,12 @@ https://github.com/Expatria-Technologies/STM32F4xx/releases
 ### Installation
 <img src="/readme_images/Board_installed.jpg" width="800">
 
-Disconnect power to the FlexiHAL and install the module in the GPIO header as shown below.  Be aware of excess cable strain (especially with heavy shielded CAT6 Ethernet cables and install spacers, fasteners and strain relief as needed.
+Disconnect power to the FlexiHAL and install the module in the GPIO header as shown above.  Be aware of excess cable strain (especially with heavy shielded CAT6 Ethernet cables and install spacers, fasteners and strain relief as needed.
+
+Note that the MCU on Flexi still needs 5V power supplied.  Normally this is via the USBC connector but it is also possible to jumper the 5V bypass pins on flexi to use the onboard 5V regulator.  Please note that this bypasses the galvanic isolation of FLexi and is not generally recommended.  See the FlexiHAL Readme for details:
+https://github.com/Expatria-Technologies/Flexi-HAL#power-input
+
+
 
 ### Usage
 

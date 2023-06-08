@@ -21,7 +21,7 @@ https://github.com/Expatria-Technologies/STM32F4xx/releases
 ### Installation
 <img src="/readme_images/Board_installed.jpg" width="800">
 
-Disconnect power to the FlexiHAL and install the module in the GPIO header as shown below.  Be aware of excess cable strain (especially with heavy shielded CAT6 Ethernet cables and install spacers, fasteners and strain relief as needed.
+Disconnect power to the FlexiHAL and install the module in the GPIO header as shown above.  Be aware of excess cable strain (especially with heavy shielded CAT6 Ethernet cables and install spacers, fasteners and strain relief as needed.
 
 ### Usage
 

@@ -1,16 +1,17 @@
 Altium Designer Pick and Place Locations
-C:\Repo\cnc_projects\Flexi_ethernet_W5500_Only\Project Outputs for PicoBOB\flexi_ethernet_w5500_solo_UPLOAD_GERBERS_A2\Pick Place\flexi_ethernet_w5500_solo_CAM_OUTPUT_A2.csv
+C:\Repo\cnc_projects\Flexi_ethernet_W5500_Only\Project Outputs for PicoBOB\flexi_ethernet_w5500_solo_UPLOAD_GERBERS_A3\Pick Place\flexi_ethernet_w5500_solo_CAM_OUTPUT_A3.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       24-05-23
-Time:       17:43
+Date:       08-06-23
+Time:       15:10
 Revision:   Not in VersionControl
 Variant:    FULL_PLACE
 Units used: mil
 
 "Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"C10","1.0uF","TopLayer","0402_C","1968.504","1633.858","180","Chip capacitor"
 "SD2","503398-1892","TopLayer","MOLX-503398-1892_V","1325.984","1700.394","180","Micro SD Connector, Pitch 1.1 mm, 8 Position, Height 1.4 mm, -25 to 85 degC, RoHS, Tape and Reel"
 "R2","0O ±1%","TopLayer","0402_R","1886.811","1633.858","0","Chip resistor"
 "VR1","XC6206P332MR","TopLayer","SOT-23-3L","1748.032","1740.157","0","200mA 680mV@(100mA) Fixed 3.3V~3.3V Positive 1 6V SOT-23-3L Linear Voltage Regulators (LDO) ROHS"

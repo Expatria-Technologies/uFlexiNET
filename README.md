@@ -7,7 +7,7 @@ Adds Ethernet and SD card storage to a FlexiHAL CNC Controller
 
 Currently available in our online store:
 
-https://expatria.myshopify.com/products/flexi-hal
+[https://expatria.myshopify.com/products/uflexinet](https://expatria.myshopify.com/products/uflexinet-ethernet-and-sd-card-module-for-flexihal)
 
 Please consider buying a board to support our open-source designs. 
 

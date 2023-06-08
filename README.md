@@ -23,6 +23,11 @@ https://github.com/Expatria-Technologies/STM32F4xx/releases
 
 Disconnect power to the FlexiHAL and install the module in the GPIO header as shown above.  Be aware of excess cable strain (especially with heavy shielded CAT6 Ethernet cables and install spacers, fasteners and strain relief as needed.
 
+Note that the MCU on Flexi still needs 5V power supplied.  Normally this is via the USBC connector but it is also possible to jumper the 5V bypass pins on flexi to use the onboard 5V regulator.  Please note that this bypasses the galvanic isolation of FLexi and is not generally recommended.  See the FlexiHAL Readme for details:
+https://github.com/Expatria-Technologies/Flexi-HAL#power-input
+
+
+
 ### Usage
 
 Ensure that you flash appropriate GRBLHAL or Remora firmware to your FlexiHAL after installation.  See GRBLHAL and Remora documentation for further usage examples.  

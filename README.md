@@ -1,6 +1,6 @@
 ![Logo](/readme_images/logo_sm.jpg)
 # uFlexiNET Ethernet and SD card module for FlexiHAL
-<img src="/readme_images/Board_Photo.jpg" width="800">
+<img src="/readme_images/Board_photo.jpg" width="800">
 
 
 Adds Ethernet and SD card storage to a FlexiHAL CNC Controller

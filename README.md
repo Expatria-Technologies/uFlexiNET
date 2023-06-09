@@ -21,7 +21,7 @@ https://github.com/Expatria-Technologies/STM32F4xx/releases
 ### Installation
 <img src="/readme_images/Board_installed.jpg" width="800">
 
-Disconnect power to the FlexiHAL and install the module in the GPIO header as shown above.  Be aware of excess cable strain (especially with heavy shielded CAT6 Ethernet cables and install spacers, fasteners and strain relief as needed.
+Disconnect power to the FlexiHAL and install the module in the GPIO header as shown above.  Be aware of excess cable strain (especially with heavy shielded CAT6 Ethernet cables and install spacers, fasteners and strain relief as needed.  If installing an SD card it is recommended to insert it before attaching the uFlexiNET to the mainboard as it is easier to ensure that it has the correct orientation.  Ensure the SD card is formatted as FAT32 and subsequent file operations (upload, delete) can be done via FTP over Ethernet or via the Ymodem protocol in senders like IOSender.
 
 Note that the MCU on Flexi still needs 5V power supplied.  Normally this is via the USBC connector but it is also possible to jumper the 5V bypass pins on flexi to use the onboard 5V regulator.  Please note that this bypasses the galvanic isolation of FLexi and is not generally recommended.  See the FlexiHAL Readme for details:
 https://github.com/Expatria-Technologies/Flexi-HAL#power-input

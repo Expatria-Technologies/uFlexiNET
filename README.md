@@ -18,6 +18,9 @@ Remora and LinuxCNC support via Ethernet is still being tested and the release i
 Optimized GRBLHAL driver is located here.  Look for releases with "ETH" in the name to use this module: 
 https://github.com/Expatria-Technologies/STM32F4xx/releases
 
+Remora port for uFlexiNET on the FlexiHAL controller is located here:
+https://github.com/Expatria-Technologies/Remora-STM32F4xx-W5500
+
 ### Installation
 <img src="/readme_images/Board_installed.jpg" width="800">
 

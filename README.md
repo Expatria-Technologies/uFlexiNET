@@ -15,10 +15,10 @@ This module is designed to be installed on the 40 pin GPIO header of the FlexiHA
 
 Remora and LinuxCNC support via Ethernet is still being tested and the release is not ready to be published.  To use Remora with this module, users are responsible for researching and compiling their own components.
 
-Optimized GRBLHAL driver is located here.  Look for releases with "ETH" in the name to use this module: 
+Optimized GRBLHAL driver is located here.  Look for releases with "ETH" in the name to use this module:  
 https://github.com/Expatria-Technologies/STM32F4xx/releases
 
-Remora port for uFlexiNET on the FlexiHAL controller is located here:
+Remora port for uFlexiNET on the FlexiHAL controller is located here:  
 https://github.com/Expatria-Technologies/Remora-STM32F4xx-W5500
 
 ### Installation

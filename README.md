@@ -13,7 +13,7 @@ Please consider buying a board to support our open-source designs.
 
 This module is designed to be installed on the 40 pin GPIO header of the FlexiHAL CNC controller.  It adds a uSD card interface and an Ethernet interface to the platform.  This brings compatbility with the SD card and Networking plugins with GRBLHAL.  Notably, this allows the use of named files for subroutines, probing routines and automatic toolchanging functions in GRBLHAL.  In addition, the module allows the user to connect compatible senders via Websockets (recomended) or Telnet.  The MQTT plugin can also be used if custom plugin code is written.
 
-Remora and LinuxCNC support via Ethernet is still being tested and the release is not ready to be published.  To use Remora with this module, users are responsible for researching and compiling their own components.
+To use Remora with this module, users are responsible for researching and compiling their own components.
 
 Optimized GRBLHAL driver is located here.  Look for releases with "ETH" in the name to use this module:  
 https://github.com/Expatria-Technologies/STM32F4xx/releases
